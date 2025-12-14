@@ -229,5 +229,5 @@ Los resultados de los tests muestran que todos los endpoints funcionan correctam
 
 ### Evidencias:
 
-En este enlace, se pueden ver las evidencias de la ejecución de los tests y el reporte generado: [Evidencias de Tests](https://example.com/evidencias-tests-api-cervezas)
+En este enlace, se pueden ver las evidencias de la ejecución de los tests y el reporte generado: [Evidencias de Tests](https://falbmun0906.github.io/kata-api-cervezas-spring-boot-falbmun0906/test-results)
 
